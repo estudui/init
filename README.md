@@ -1,2 +1,2 @@
-# latihan
-Latihan web
+# Initial Document
+Web Doc
